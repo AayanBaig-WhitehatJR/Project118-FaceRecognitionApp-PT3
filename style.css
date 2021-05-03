@@ -1,0 +1,49 @@
+.heading{
+    font-size: 22px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+.heading_div{
+    background: darkcyan;
+    float: none;
+    padding: 10px;
+    border-radius: 20px;
+    color: white;
+    box-shadow: 5px 5px 5px gray;
+}
+.trained_items{
+    font-size: 18px;
+    border-radius: 20px;
+}
+body{
+    background-size: cover
+}
+.resultsDiv{
+background-color: blue;
+width: 30%;
+border: 5px ridge gray;
+border-radius: 20px;
+color: white;
+margin-top: 600px !important;
+box-shadow: 5px 5px 5px gray;
+}
+#familyMemberName, #accuracyValue{
+color: yellow !important;
+}
+canvas{
+    box-shadow: 5px 5px 5px gray;
+    border: 5px ridge darkcyan;
+border-radius: 20px;
+margin-top: 300px !important;
+}
+#copyright_footer{
+    color: white;
+    background-color: darkcyan;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+    margin-top: 10px;
+    box-shadow: 5px 5px 5px gray;
+}
